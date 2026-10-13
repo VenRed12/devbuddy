@@ -1,0 +1,27 @@
+slug: production-ai-service
+name: End-to-End Semantic Search and Evaluation Service
+mode: external
+resource_url: https://github.com/example/semantic-search-evaluation
+difficulty: advanced
+est_hours: 16
+tags:
+  - ai
+  - search
+requires_skills:
+  - llm-apis
+requires_projects:
+  - rag-knowledge-assistant
+access:
+  free_preview: true
+  entitlement_keys_any: []
+covers:
+  - skill: embeddings
+    level: 3
+  - skill: ai-evaluation
+    level: 2
+rubric: []
+verification:
+  checks: []
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

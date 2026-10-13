@@ -1,0 +1,7 @@
+schema_version: 1
+role: cloud-engineer
+skill: prometheus
+importance: nice
+target_level: 3
+applies_to_kind:
+  - ic

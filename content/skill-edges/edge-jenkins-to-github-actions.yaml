@@ -1,0 +1,6 @@
+schema_version: 1
+from: jenkins
+to: github-actions
+type: bridge_to
+transfer_weight: 0.6
+note: CI pipeline concepts transfer from Jenkins to GitHub Actions.

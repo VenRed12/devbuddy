@@ -1,0 +1,6 @@
+schema_version: 1
+from: sql
+to: postgresql
+type: upgrade_of
+transfer_weight: 0.8
+note: SQL foundations transfer directly to PostgreSQL dialect and features.

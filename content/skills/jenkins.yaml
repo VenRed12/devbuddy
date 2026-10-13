@@ -1,0 +1,14 @@
+schema_version: 1
+slug: jenkins
+aliases: []
+name: Jenkins CI/CD
+category: devops
+tags:
+  - ci-cd
+  - automation
+base_hours: 20
+fundamental: false
+description: Jenkins declarative and scripted pipelines.
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

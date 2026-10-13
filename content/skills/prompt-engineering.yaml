@@ -1,0 +1,14 @@
+schema_version: 1
+slug: prompt-engineering
+aliases: []
+name: Prompt Engineering
+category: ai
+tags:
+  - ai
+  - prompts
+base_hours: 12
+fundamental: false
+description: Structured prompts, few-shot, and chain-of-thought.
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

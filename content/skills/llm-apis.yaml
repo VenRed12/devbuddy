@@ -1,0 +1,14 @@
+schema_version: 1
+slug: llm-apis
+aliases: []
+name: LLM API Integration
+category: ai
+tags:
+  - ai
+  - llm
+base_hours: 15
+fundamental: false
+description: Direct inference against modern LLM endpoints.
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

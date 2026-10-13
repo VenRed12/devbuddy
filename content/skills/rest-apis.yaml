@@ -1,0 +1,14 @@
+schema_version: 1
+slug: rest-apis
+aliases: []
+name: RESTful API Design
+category: architecture
+tags:
+  - api
+  - http
+base_hours: 20
+fundamental: true
+description: HTTP REST API patterns and OpenAPI.
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

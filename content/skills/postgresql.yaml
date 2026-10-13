@@ -1,0 +1,14 @@
+schema_version: 1
+slug: postgresql
+aliases: []
+name: PostgreSQL
+category: databases
+tags:
+  - postgres
+  - sql
+base_hours: 20
+fundamental: false
+description: Advanced open-source relational database.
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

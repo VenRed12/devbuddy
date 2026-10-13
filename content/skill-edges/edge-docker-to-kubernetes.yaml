@@ -1,0 +1,6 @@
+schema_version: 1
+from: docker
+to: kubernetes
+type: prerequisite_of
+transfer_weight: 0
+note: Containerisation with Docker is required before orchestrating with Kubernetes.

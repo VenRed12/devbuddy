@@ -1,0 +1,9 @@
+schema_version: 1
+slug: ai-engineering-manager
+aliases: []
+name: AI Engineering Manager
+kind: manager
+is_current_role: false
+is_target_role: true
+implied_skills: []
+status: draft

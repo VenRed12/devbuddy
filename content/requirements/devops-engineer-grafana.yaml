@@ -1,0 +1,7 @@
+schema_version: 1
+role: devops-engineer
+skill: grafana
+importance: expected
+target_level: 3
+applies_to_kind:
+  - ic

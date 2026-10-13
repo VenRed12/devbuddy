@@ -1,0 +1,14 @@
+schema_version: 1
+slug: spring-boot
+aliases: []
+name: Spring Boot
+category: frameworks
+tags:
+  - java
+  - microservices
+base_hours: 20
+fundamental: false
+description: Opinionated Spring application framework.
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

@@ -1,0 +1,14 @@
+schema_version: 1
+slug: java
+aliases: []
+name: Java Programming
+category: languages
+tags:
+  - java
+  - backend
+base_hours: 40
+fundamental: true
+description: Core Java runtime and OOP.
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

@@ -1,0 +1,7 @@
+schema_version: 1
+role: devops-engineer
+skill: kubernetes
+importance: core
+target_level: 4
+applies_to_kind:
+  - ic

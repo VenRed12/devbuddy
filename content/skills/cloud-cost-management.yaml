@@ -1,0 +1,14 @@
+schema_version: 1
+slug: cloud-cost-management
+aliases: []
+name: Cloud Cost Optimization
+category: cloud
+tags:
+  - finops
+  - cloud
+base_hours: 15
+fundamental: false
+description: Cloud FinOps analysis and right-sizing.
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

@@ -1,0 +1,14 @@
+schema_version: 1
+slug: prometheus
+aliases: []
+name: Prometheus Monitoring
+category: observability
+tags:
+  - monitoring
+  - metrics
+base_hours: 15
+fundamental: false
+description: Metrics collection and PromQL querying.
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

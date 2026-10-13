@@ -1,0 +1,7 @@
+schema_version: 1
+role: cloud-engineer
+skill: aws-iam
+importance: expected
+target_level: 3
+applies_to_kind:
+  - ic

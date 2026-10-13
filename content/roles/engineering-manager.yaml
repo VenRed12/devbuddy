@@ -1,0 +1,13 @@
+schema_version: 1
+slug: engineering-manager
+aliases: []
+name: Engineering Manager
+kind: manager
+is_current_role: true
+is_target_role: false
+implied_skills:
+  - skill: system-design
+    level: can_build
+  - skill: agile-delivery
+    level: can_deploy
+status: draft

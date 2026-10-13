@@ -1,0 +1,14 @@
+schema_version: 1
+slug: ai-strategy
+aliases: []
+name: AI Product Strategy
+category: management
+tags:
+  - ai
+  - strategy
+base_hours: 20
+fundamental: false
+description: Executive AI assessment and ROI planning.
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

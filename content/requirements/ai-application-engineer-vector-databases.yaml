@@ -1,0 +1,7 @@
+schema_version: 1
+role: ai-application-engineer
+skill: vector-databases
+importance: core
+target_level: 3
+applies_to_kind:
+  - ic

@@ -1,0 +1,14 @@
+schema_version: 1
+slug: unit-testing
+aliases: []
+name: Unit Testing & TDD
+category: engineering
+tags:
+  - testing
+  - quality
+base_hours: 15
+fundamental: true
+description: Fast, isolated unit testing.
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

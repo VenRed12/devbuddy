@@ -1,0 +1,6 @@
+schema_version: 1
+from: docker
+to: aws-ecs
+type: bridge_to
+transfer_weight: 0.6
+note: Deploying on ECS builds directly on Docker containerization.

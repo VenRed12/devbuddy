@@ -1,0 +1,6 @@
+schema_version: 1
+from: spring
+to: spring-boot
+type: upgrade_of
+transfer_weight: 0.7
+note: Spring Boot builds directly on core Spring DI and MVC conventions.

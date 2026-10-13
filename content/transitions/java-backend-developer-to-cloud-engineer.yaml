@@ -1,0 +1,18 @@
+schema_version: 1
+slug: java-backend-developer-to-cloud-engineer
+aliases: []
+from_role: java-backend-developer
+to_role: cloud-engineer
+status: draft
+title: Java Backend Developer to Cloud Engineer
+summary: Keep your Java and API expertise; learn containers, cloud services and
+  delivery pipelines.
+overrides:
+  force_include_skills: []
+  force_exclude_skills: []
+  project_sequence:
+    - modernise-java-service
+    - containerise-and-deploy-aws
+faqs:
+  - q: Do I need to relearn Java?
+    a: No. The plan treats Java, OOP, SQL and REST as skills you keep.

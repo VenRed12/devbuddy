@@ -1,0 +1,14 @@
+schema_version: 1
+slug: sql
+aliases: []
+name: SQL & Relational Databases
+category: databases
+tags:
+  - sql
+  - data
+base_hours: 25
+fundamental: true
+description: Standard relational querying and indexing.
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

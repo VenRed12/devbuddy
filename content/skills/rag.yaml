@@ -1,0 +1,14 @@
+schema_version: 1
+slug: rag
+aliases: []
+name: Retrieval-Augmented Generation
+category: ai
+tags:
+  - ai
+  - rag
+base_hours: 25
+fundamental: false
+description: Context grounding using external document retrieval.
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

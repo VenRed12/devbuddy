@@ -1,0 +1,14 @@
+schema_version: 1
+slug: grafana
+aliases: []
+name: Grafana Dashboards
+category: observability
+tags:
+  - dashboards
+  - metrics
+base_hours: 10
+fundamental: false
+description: Visualisation dashboards and alert rules.
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

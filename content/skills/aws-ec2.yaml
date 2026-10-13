@@ -1,0 +1,14 @@
+schema_version: 1
+slug: aws-ec2
+aliases: []
+name: AWS EC2
+category: cloud
+tags:
+  - aws
+  - infrastructure
+base_hours: 15
+fundamental: false
+description: Elastic compute cloud instances.
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

@@ -1,0 +1,14 @@
+schema_version: 1
+slug: spring
+aliases: []
+name: Spring Framework
+category: frameworks
+tags:
+  - java
+  - spring
+base_hours: 30
+fundamental: false
+description: Classic Spring dependency injection and MVC.
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

@@ -1,0 +1,6 @@
+schema_version: 1
+from: test-automation
+to: unit-testing
+type: equivalent
+transfer_weight: 0.8
+note: Automated test structure shares identical assertions and lifecycle.

@@ -1,0 +1,18 @@
+schema_version: 1
+slug: java-backend-developer-to-ai-application-engineer
+aliases: []
+from_role: java-backend-developer
+to_role: ai-application-engineer
+status: draft
+title: Java Backend Developer to AI Application Engineer
+summary: Leverage backend architecture to build reliable RAG systems, embeddings
+  pipelines, and LLM applications.
+overrides:
+  force_include_skills: []
+  force_exclude_skills: []
+  project_sequence:
+    - rag-knowledge-assistant
+    - production-ai-service
+faqs:
+  - q: Is Python mandatory?
+    a: No, backend API architectures apply directly to LLM service patterns.

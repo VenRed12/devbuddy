@@ -1,0 +1,6 @@
+schema_version: 1
+from: vector-databases
+to: rag
+type: bridge_to
+transfer_weight: 0.5
+note: RAG utilizes vector databases for retrieval pipelines.

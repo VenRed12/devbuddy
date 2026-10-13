@@ -1,0 +1,14 @@
+schema_version: 1
+slug: aws-s3
+aliases: []
+name: AWS S3
+category: cloud
+tags:
+  - aws
+  - storage
+base_hours: 10
+fundamental: false
+description: Simple storage service object store.
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

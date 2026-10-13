@@ -1,0 +1,7 @@
+schema_version: 1
+role: devops-engineer
+skill: github-actions
+importance: core
+target_level: 4
+applies_to_kind:
+  - ic

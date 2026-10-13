@@ -1,0 +1,17 @@
+schema_version: 1
+slug: java-backend-developer
+aliases: []
+name: Java Backend Developer
+kind: ic
+is_current_role: true
+is_target_role: false
+implied_skills:
+  - skill: java
+    level: can_build
+  - skill: spring
+    level: can_build
+  - skill: sql
+    level: can_build
+  - skill: rest-apis
+    level: can_build
+status: draft

@@ -1,0 +1,9 @@
+schema_version: 1
+slug: devops-engineer
+aliases: []
+name: DevOps Engineer
+kind: ic
+is_current_role: false
+is_target_role: true
+implied_skills: []
+status: draft

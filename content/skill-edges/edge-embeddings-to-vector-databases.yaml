@@ -1,0 +1,7 @@
+schema_version: 1
+from: embeddings
+to: vector-databases
+type: prerequisite_of
+transfer_weight: 0
+note: Understanding vector embeddings is required to index and query vector
+  databases.

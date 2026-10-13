@@ -1,0 +1,26 @@
+slug: ai-strategy-and-evaluation-playbook
+name: AI Strategy, Evaluation and FinOps Playbook
+mode: external
+resource_url: https://example.com/ai-strategy-playbook
+difficulty: intermediate
+est_hours: 8
+tags:
+  - manager-friendly
+requires_skills: []
+requires_projects: []
+access:
+  free_preview: true
+  entitlement_keys_any: []
+covers:
+  - skill: ai-strategy
+    level: 2
+  - skill: ai-evaluation
+    level: 2
+  - skill: cloud-cost-management
+    level: 2
+rubric: []
+verification:
+  checks: []
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

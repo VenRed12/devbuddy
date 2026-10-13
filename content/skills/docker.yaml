@@ -1,0 +1,14 @@
+schema_version: 1
+slug: docker
+aliases: []
+name: Docker Containers
+category: containers
+tags:
+  - docker
+  - devops
+base_hours: 20
+fundamental: false
+description: Container creation, multi-stage builds, and registries.
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

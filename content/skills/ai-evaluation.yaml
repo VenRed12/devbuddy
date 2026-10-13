@@ -1,0 +1,14 @@
+schema_version: 1
+slug: ai-evaluation
+aliases: []
+name: AI & LLM Evaluation
+category: ai
+tags:
+  - ai
+  - evaluation
+base_hours: 20
+fundamental: false
+description: Model quality benchmarking and ground truth evals.
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

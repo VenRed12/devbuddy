@@ -1,0 +1,15 @@
+schema_version: 1
+slug: qa-engineer
+aliases: []
+name: QA Engineer
+kind: ic
+is_current_role: true
+is_target_role: false
+implied_skills:
+  - skill: test-automation
+    level: can_build
+  - skill: java
+    level: can_build
+  - skill: sql
+    level: understanding
+status: draft

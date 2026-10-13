@@ -1,0 +1,14 @@
+schema_version: 1
+slug: aws-iam
+aliases: []
+name: AWS IAM
+category: security
+tags:
+  - aws
+  - security
+base_hours: 15
+fundamental: false
+description: Identity and access management policies and roles.
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

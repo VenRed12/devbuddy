@@ -1,0 +1,63 @@
+slug: containerise-and-deploy-aws
+name: Containerise and deploy a Spring Boot service on AWS
+mode: guided
+resource_url: null
+difficulty: intermediate
+est_hours: 12
+tags:
+  - containers
+  - cloud
+requires_skills:
+  - spring-boot
+requires_projects:
+  - modernise-java-service
+access:
+  free_preview: true
+  entitlement_keys_any:
+    - track:java-backend-developer-to-cloud-engineer
+covers:
+  - skill: docker
+    level: 4
+  - skill: aws-ecs
+    level: 4
+  - skill: github-actions
+    level: 3
+rubric:
+  - Does the container run as a non-root user?
+  - Are secrets injected at runtime rather than baked into the image?
+  - Is there a health check endpoint used by the platform?
+verification:
+  checks:
+    - id: has-dockerfile
+      type: file_exists
+      glob: "**/Dockerfile"
+      required: true
+      demonstrates:
+        - skill: docker
+          level: 3
+    - id: has-ci
+      type: file_exists
+      glob: .github/workflows/*.y*ml
+      required: true
+      demonstrates:
+        - skill: github-actions
+          level: 3
+    - id: nonroot-container
+      type: file_contains
+      glob: "**/Dockerfile"
+      pattern: ^USER\s+(?!root)
+      required: false
+      demonstrates:
+        - skill: docker
+          level: 4
+    - id: aws-deploy-config
+      type: file_contains
+      glob: "**/*.{yml,yaml,tf,json}"
+      pattern: (aws_ecs_service|AWS::ECS::Service|aws-actions/)
+      required: true
+      demonstrates:
+        - skill: aws-ecs
+          level: 4
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

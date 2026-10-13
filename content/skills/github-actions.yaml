@@ -1,0 +1,14 @@
+schema_version: 1
+slug: github-actions
+aliases: []
+name: GitHub Actions
+category: devops
+tags:
+  - ci-cd
+  - cloud
+base_hours: 15
+fundamental: false
+description: GitHub native CI/CD workflows.
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

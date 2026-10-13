@@ -1,0 +1,6 @@
+schema_version: 1
+from: prometheus
+to: grafana
+type: bridge_to
+transfer_weight: 0.5
+note: Prometheus metrics feed into Grafana dashboards.

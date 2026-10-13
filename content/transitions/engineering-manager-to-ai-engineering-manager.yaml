@@ -1,0 +1,17 @@
+schema_version: 1
+slug: engineering-manager-to-ai-engineering-manager
+aliases: []
+from_role: engineering-manager
+to_role: ai-engineering-manager
+status: draft
+title: Engineering Manager to AI Engineering Manager
+summary: Lead high-performing AI engineering teams with calibrated evaluation,
+  architecture, and cost strategies.
+overrides:
+  force_include_skills: []
+  force_exclude_skills: []
+  project_sequence:
+    - ai-strategy-and-evaluation-playbook
+faqs:
+  - q: Do managers need to train models?
+    a: No. You need architectural judgment and evaluation literacy.

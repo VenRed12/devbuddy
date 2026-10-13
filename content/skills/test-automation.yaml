@@ -1,0 +1,14 @@
+schema_version: 1
+slug: test-automation
+aliases: []
+name: Test Automation
+category: qa
+tags:
+  - qa
+  - testing
+base_hours: 25
+fundamental: false
+description: Automated end-to-end and integration suites.
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

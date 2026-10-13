@@ -1,0 +1,44 @@
+slug: rag-knowledge-assistant
+name: Build a Production RAG Assistant with Vector Search
+mode: guided
+resource_url: null
+difficulty: intermediate
+est_hours: 14
+tags:
+  - ai
+  - rag
+requires_skills:
+  - rest-apis
+requires_projects: []
+access:
+  free_preview: true
+  entitlement_keys_any:
+    - track:java-backend-developer-to-ai-application-engineer
+covers:
+  - skill: llm-apis
+    level: 3
+  - skill: rag
+    level: 3
+  - skill: vector-databases
+    level: 3
+rubric:
+  - Is contextual chunking implemented?
+  - Are embeddings queried through an approximate nearest neighbor index?
+verification:
+  checks:
+    - id: vector-dep
+      type: dependency_contains
+      files:
+        - pom.xml
+        - build.gradle
+        - package.json
+        - requirements.txt
+        - pyproject.toml
+      pattern: pgvector|chromadb|qdrant|pinecone|weaviate
+      required: true
+      demonstrates:
+        - skill: vector-databases
+          level: 3
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

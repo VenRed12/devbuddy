@@ -1,0 +1,7 @@
+schema_version: 1
+role: ai-engineering-manager
+skill: ai-strategy
+importance: core
+target_level: 2
+applies_to_kind:
+  - manager

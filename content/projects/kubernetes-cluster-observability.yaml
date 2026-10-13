@@ -1,0 +1,28 @@
+slug: kubernetes-cluster-observability
+name: Deploy Kubernetes Service with Prometheus and Grafana
+mode: external
+resource_url: https://github.com/example/k8s-observability-guide
+difficulty: advanced
+est_hours: 18
+tags:
+  - k8s
+  - observability
+requires_skills:
+  - docker
+requires_projects: []
+access:
+  free_preview: true
+  entitlement_keys_any: []
+covers:
+  - skill: kubernetes
+    level: 4
+  - skill: prometheus
+    level: 4
+  - skill: grafana
+    level: 3
+rubric: []
+verification:
+  checks: []
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

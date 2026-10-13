@@ -1,0 +1,14 @@
+schema_version: 1
+slug: embeddings
+aliases: []
+name: Text Embeddings
+category: ai
+tags:
+  - ai
+  - vectors
+base_hours: 15
+fundamental: false
+description: Dense semantic vector representations.
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

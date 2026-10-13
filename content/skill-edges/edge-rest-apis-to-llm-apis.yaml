@@ -1,0 +1,6 @@
+schema_version: 1
+from: rest-apis
+to: llm-apis
+type: bridge_to
+transfer_weight: 0.7
+note: Calling LLM endpoints relies on standard HTTP REST clients and error handling.

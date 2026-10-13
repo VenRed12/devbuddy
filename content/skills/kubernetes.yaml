@@ -1,0 +1,14 @@
+schema_version: 1
+slug: kubernetes
+aliases: []
+name: Kubernetes
+category: containers
+tags:
+  - k8s
+  - cloud
+base_hours: 35
+fundamental: false
+description: Container orchestration, services, and ingresses.
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

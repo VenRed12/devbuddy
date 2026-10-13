@@ -1,0 +1,36 @@
+slug: modernise-java-service
+name: Modernise a Java Service with Spring Boot and PostgreSQL
+mode: guided
+resource_url: null
+difficulty: intermediate
+est_hours: 10
+tags:
+  - java
+  - spring-boot
+requires_skills:
+  - java
+requires_projects: []
+access:
+  free_preview: true
+  entitlement_keys_any:
+    - track:java-backend-developer-to-cloud-engineer
+covers:
+  - skill: spring-boot
+    level: 3
+  - skill: postgresql
+    level: 3
+rubric:
+  - Does the application use Spring Boot auto-configuration?
+  - Are database connections pooled via HikariCP?
+verification:
+  checks:
+    - id: has-build-file
+      type: file_exists
+      glob: "**/pom.xml"
+      required: true
+      demonstrates:
+        - skill: spring-boot
+          level: 3
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder

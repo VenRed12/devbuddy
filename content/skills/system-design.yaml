@@ -1,0 +1,14 @@
+schema_version: 1
+slug: system-design
+aliases: []
+name: System Design
+category: architecture
+tags:
+  - architecture
+  - leadership
+base_hours: 30
+fundamental: true
+description: Distributed systems and resilience patterns.
+status: draft
+last_reviewed_at: 2026-10-01
+reviewed_by: seed-placeholder
